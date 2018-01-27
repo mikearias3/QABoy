@@ -1,0 +1,42 @@
+remote_connection.py       478 DEBUG    POST http://127.0.0.1:55146/session {"capabilities": {"firstMatch": [], "alwaysMatch": {}, "browserName": "chrome", "version": "", "platform": "ANY", "javascriptEnabled": true, "chromeOptions": {"extensions": [], "args": []}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "javascriptEnabled": true, "chromeOptions": {"extensions": [], "args": []}}}
+remote_connection.py       564 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    POST http://127.0.0.1:55146/session/b034615914b30ba67474d618f6490944/url {"url": "http://qaboy.com/", "sessionId": "b034615914b30ba67474d618f6490944"}
+remote_connection.py       564 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    POST http://127.0.0.1:55146/session/b034615914b30ba67474d618f6490944/elements {"using": "tag name", "value": "article", "sessionId": "b034615914b30ba67474d618f6490944"}
+remote_connection.py       564 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    POST http://127.0.0.1:55146/session/b034615914b30ba67474d618f6490944/element {"using": "xpath", "value": "//article[1]//h3/a", "sessionId": "b034615914b30ba67474d618f6490944"}
+remote_connection.py       564 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    GET http://127.0.0.1:55146/session/b034615914b30ba67474d618f6490944/element/0.30979247757507333-6/displayed {"id": "0.30979247757507333-6", "sessionId": "b034615914b30ba67474d618f6490944"}
+remote_connection.py       564 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    POST http://127.0.0.1:55146/session/b034615914b30ba67474d618f6490944/element {"using": "class name", "value": "site-title", "sessionId": "b034615914b30ba67474d618f6490944"}
+remote_connection.py       564 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    GET http://127.0.0.1:55146/session/b034615914b30ba67474d618f6490944/element/0.30979247757507333-7/displayed {"id": "0.30979247757507333-7", "sessionId": "b034615914b30ba67474d618f6490944"}
+remote_connection.py       564 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    GET http://127.0.0.1:55146/session/b034615914b30ba67474d618f6490944/element/0.30979247757507333-7/displayed {"id": "0.30979247757507333-7", "sessionId": "b034615914b30ba67474d618f6490944"}
+remote_connection.py       564 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    POST http://127.0.0.1:55146/session/b034615914b30ba67474d618f6490944/element {"using": "class name", "value": "custom-logo", "sessionId": "b034615914b30ba67474d618f6490944"}
+remote_connection.py       564 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    GET http://127.0.0.1:55146/session/b034615914b30ba67474d618f6490944/element/0.30979247757507333-8/displayed {"id": "0.30979247757507333-8", "sessionId": "b034615914b30ba67474d618f6490944"}
+remote_connection.py       564 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    GET http://127.0.0.1:55146/session/b034615914b30ba67474d618f6490944/element/0.30979247757507333-8/displayed {"id": "0.30979247757507333-8", "sessionId": "b034615914b30ba67474d618f6490944"}
+remote_connection.py       564 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    POST http://127.0.0.1:55146/session/b034615914b30ba67474d618f6490944/element {"using": "id", "value": "top-menu", "sessionId": "b034615914b30ba67474d618f6490944"}
+remote_connection.py       564 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    GET http://127.0.0.1:55146/session/b034615914b30ba67474d618f6490944/element/0.30979247757507333-9/displayed {"id": "0.30979247757507333-9", "sessionId": "b034615914b30ba67474d618f6490944"}
+remote_connection.py       564 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    GET http://127.0.0.1:55146/session/b034615914b30ba67474d618f6490944/element/0.30979247757507333-9/displayed {"id": "0.30979247757507333-9", "sessionId": "b034615914b30ba67474d618f6490944"}
+remote_connection.py       564 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    POST http://127.0.0.1:55146/session/b034615914b30ba67474d618f6490944/element {"using": "xpath", "value": "//span[contains(text(), 'Twitter')]", "sessionId": "b034615914b30ba67474d618f6490944"}
+remote_connection.py       564 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    GET http://127.0.0.1:55146/session/b034615914b30ba67474d618f6490944/element/0.30979247757507333-10/displayed {"id": "0.30979247757507333-10", "sessionId": "b034615914b30ba67474d618f6490944"}
+remote_connection.py       564 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    POST http://127.0.0.1:55146/session/b034615914b30ba67474d618f6490944/element {"using": "xpath", "value": "//span[contains(text(), 'LinkedIn')]", "sessionId": "b034615914b30ba67474d618f6490944"}
+remote_connection.py       564 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    GET http://127.0.0.1:55146/session/b034615914b30ba67474d618f6490944/element/0.30979247757507333-11/displayed {"id": "0.30979247757507333-11", "sessionId": "b034615914b30ba67474d618f6490944"}
+remote_connection.py       564 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    GET http://127.0.0.1:55146/session/b034615914b30ba67474d618f6490944/element/0.30979247757507333-10/displayed {"id": "0.30979247757507333-10", "sessionId": "b034615914b30ba67474d618f6490944"}
+remote_connection.py       564 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    GET http://127.0.0.1:55146/session/b034615914b30ba67474d618f6490944/element/0.30979247757507333-11/displayed {"id": "0.30979247757507333-11", "sessionId": "b034615914b30ba67474d618f6490944"}
+remote_connection.py       564 DEBUG    Finished Request
+remote_connection.py       478 DEBUG    DELETE http://127.0.0.1:55146/session/b034615914b30ba67474d618f6490944 {"sessionId": "b034615914b30ba67474d618f6490944"}
+remote_connection.py       564 DEBUG    Finished Request

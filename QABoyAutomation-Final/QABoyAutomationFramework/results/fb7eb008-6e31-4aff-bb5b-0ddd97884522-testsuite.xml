@@ -1,0 +1,177 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1516532947910" stop="1516532980677">
+  <name>test_qaboy</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1516532947910" status="passed" stop="1516532959507">
+      <name>TestQABoy.test_about_screen_components</name>
+      <attachments>
+        <attachment source="e4b7db58-01e0-4453-af02-78f2a0558d25-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2960-MainThread"/>
+        <label name="host" value="Mikes-MacBook-Pro.local"/>
+      </labels>
+      <steps>
+        <step start="1516532957395" status="passed" stop="1516532959093">
+          <name>Click About Me menu link</name>
+          <title>Click About Me menu link</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1516532959147" status="passed" stop="1516532959178">
+          <name>Validate Page Title is present</name>
+          <title>Validate Page Title is present</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1516532959178" status="passed" stop="1516532959210">
+          <name>Validate Page Icon is present</name>
+          <title>Validate Page Icon is present</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1516532959210" status="passed" stop="1516532959249">
+          <name>Validate Page Top Menu is present</name>
+          <title>Validate Page Top Menu is present</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1516532959249" status="passed" stop="1516532959318">
+          <name>Validate Footer Social Media links are present</name>
+          <title>Validate Footer Social Media links are present</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1516532959318" status="passed" stop="1516532959325">
+          <name>Validate About Me header</name>
+          <title>Validate About Me header</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1516532959325" status="passed" stop="1516532959332">
+          <name>Validate About Me description</name>
+          <title>Validate About Me description</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1516532959512" status="passed" stop="1516532967642">
+      <name>TestQABoy.test_home_screen_components</name>
+      <attachments>
+        <attachment source="d5a79d72-a977-4c3b-b117-871161f9faa8-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2960-MainThread"/>
+        <label name="host" value="Mikes-MacBook-Pro.local"/>
+      </labels>
+      <steps>
+        <step start="1516532967248" status="passed" stop="1516532967295">
+          <name>Validate Page Title is present</name>
+          <title>Validate Page Title is present</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1516532967295" status="passed" stop="1516532967371">
+          <name>Validate Page Icon is present</name>
+          <title>Validate Page Icon is present</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1516532967371" status="passed" stop="1516532967421">
+          <name>Validate Page Top Menu is present</name>
+          <title>Validate Page Top Menu is present</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1516532967421" status="passed" stop="1516532967421">
+          <name>Validate blog posts are visible</name>
+          <title>Validate blog posts are visible</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1516532967421" status="passed" stop="1516532967551">
+          <name>Validate Footer Social Media links are present</name>
+          <title>Validate Footer Social Media links are present</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1516532967644" status="passed" stop="1516532980677">
+      <name>TestQABoy.test_post_screen_components</name>
+      <attachments>
+        <attachment source="44bffd4d-1c77-41f6-8d5b-99f0c5f8e499-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2960-MainThread"/>
+        <label name="host" value="Mikes-MacBook-Pro.local"/>
+      </labels>
+      <steps>
+        <step start="1516532976516" status="passed" stop="1516532980254">
+          <name>Click Blog's first post</name>
+          <title>Click Blog's first post</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1516532980392" status="passed" stop="1516532980425">
+          <name>Validate Page Title is present</name>
+          <title>Validate Page Title is present</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1516532980425" status="passed" stop="1516532980457">
+          <name>Validate Page Icon is present</name>
+          <title>Validate Page Icon is present</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1516532980457" status="passed" stop="1516532980489">
+          <name>Validate Page Top Menu is present</name>
+          <title>Validate Page Top Menu is present</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1516532980489" status="passed" stop="1516532980556">
+          <name>Validate Footer Social Media links are present</name>
+          <title>Validate Footer Social Media links are present</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1516532980556" status="passed" stop="1516532980564">
+          <name>Validate post featured image</name>
+          <title>Validate post featured image</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1516532980564" status="passed" stop="1516532980571">
+          <name>Validate post published date</name>
+          <title>Validate post published date</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1516532980571" status="passed" stop="1516532980579">
+          <name>Validate post share buttons</name>
+          <title>Validate post share buttons</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1516532980579" status="passed" stop="1516532980586">
+          <name>Validate post Categories and Tags</name>
+          <title>Validate post Categories and Tags</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1516532980586" status="passed" stop="1516532980594">
+          <name>Validate post Comment section</name>
+          <title>Validate post Comment section</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
