@@ -48,7 +48,8 @@ jobs:
           name: run tests
           command: |
             . venv/bin/activate
-            python -m pytest QABoyAutomation-Final/QABoyAutomationFramework/testcases
+            cd QABoyAutomation-Final/QABoyAutomationFramework/
+            python -m pytest testcases
 
       - store_artifacts:
           path: test-reports
