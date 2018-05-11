@@ -1,0 +1,3 @@
+{
+  "testcases/test_qaboy.py::TestQABoy::test_home_screen_components": true
+}
